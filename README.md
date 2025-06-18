@@ -13,10 +13,10 @@ To visualize, compare, and analyze the performance of the group's subsidiaries u
 - Excel (data cleaning and pre-processing)
 
 ## 📌 Key Insights
-- Finicky MFB contributed the largest share of overall group revenue in Q1 and Q2.
-- Swiss Lenders showed consistent growth in loan disbursements over the past 6 months.
-- Bonny Asset Management had a dip in asset inflow in the last quarter, signaling potential review areas.
-- Cross-company analysis revealed that Swiss Lenders had the highest customer retention rate.
+- Finicky MFB contributed the largest share of overall group information.
+- Swiss Lenders showed consistent growth in New staff
+- Bonny Asset Management showed that they are just a new company in the group and needs more hire.
+- Cross-company analysis revealed that Finicky has the highest staff.
 
 ## 🧠 Skills Demonstrated
 - Power BI dashboard design
