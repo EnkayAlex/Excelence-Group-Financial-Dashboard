@@ -1,12 +1,12 @@
 # Excellence Group Financial Dashboard (Power BI)
 
-This Power BI dashboard provides a financial performance overview of *Excellence Group*, which consists of:
+This Power BI dashboard provides a financial Information overview of *Excellence Group*, which consists of:
 - *Finicky MFB* (Microfinance Bank)
 - *Swiss Lenders* (Microfinance Institution)
 - *Bonny Asset Management* (Asset Management Firm)
 
 ## 📊 Objective
-To visualize, compare, and analyze the performance of the group's subsidiaries using key financial metrics and trends. This helps management make informed strategic decisions.
+To visualize, compare, and analyze the performance of the group's subsidiaries using key trends. This helps management make informed strategic decisions.
 
 ## 🧰 Tools Used
 - Power BI Desktop
